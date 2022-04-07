@@ -1,0 +1,7 @@
+Input on the first 4 pins on port B and the first 4 pins on port C (dipswitch), buttons on port A and LEDs on port D.
+In the dipswitch, place different combination. Later, click the first button on port A, then this number would be saved in the address.  
+So on up to 10 combinations. Then click on the second button to show it on port D.
+
+El dipswitch toma los primeros 4 pines del puerto B y de los primeros 4 pines del puerto C.
+Se ingresa alguna combinacion en dipswitch, luego se oprime el primer boton (en RA0) y ese numero, se guarda en una direccion.
+Despues de 10 combinaciones, se oprime en el segundo boton (RA1) y lo guardado se comienza a mostrar en el puerto D.
