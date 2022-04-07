@@ -1,4 +1,0 @@
-Warning[205] C:\USERS\HP\DOCUMENTS\PROGRAMAS\1.ASM 3 : Found directive in column 1. (ORG)
-Warning[203] C:\USERS\HP\DOCUMENTS\PROGRAMAS\1.ASM 4 : Found opcode in column 1. (goto)
-Warning[205] C:\USERS\HP\DOCUMENTS\PROGRAMAS\1.ASM 5 : Found directive in column 1. (ORG)
-Message[302] C:\USERS\HP\DOCUMENTS\PROGRAMAS\1.ASM 12 : Register in operand not in bank 0.  Ensure that bank bits are correct.
