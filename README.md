@@ -12,3 +12,4 @@ Practices in assambly lenguage  in the program MPLAB & C CCS for microcontroller
 4.- With a dipswitch set the number of the engine spins. (Stepper) the first button (D0)  turn engine right and the second (D1) to turn engine left and just the half of the number, and just even.   //Con un dipswitch coloca el numero de giros del motor.(Motor a pasos) El primer boton (D0) mueve el motor hacia la derecha y el segundo boton (D1) mueve el motor a la izquierda y solo la mitad del numero y solo numeros pares. [C CCS]
 
 
+5.- Stepper, keypad program whitout library // Programa de Motor a pasos, teclado matricial SIN libreria.
